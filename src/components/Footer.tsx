@@ -10,7 +10,7 @@ export function Footer() {
             <span className="text-foreground">S</span>
           </span>
           <span className="font-mono text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Daniel Ojima Shaibu -
+            © {new Date().getFullYear()} Daniel Ojima Shaibu --
           </span>
         </div>
         <div className="flex items-center gap-2">
